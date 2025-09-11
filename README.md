@@ -1,8 +1,14 @@
-# CrossTALK Bootcamp Q1 2025
+# CrossTALK Bootcamp Q2 2025
 
 Cross-Training in AI and Laboratory Knowledge for Drug Discovery
 
 https://datasciences.utoronto.ca/crosstalk-bootcamp/
+
+## Kaggle
+
+https://www.kaggle.com/competitions/cross-talk-round-2
+
+https://www.kaggle.com/t/9c7fbe5809c84378a7dce33dab4c5cb7
 
 ## Getting Started in the notebooks
 
@@ -19,32 +25,14 @@ https://datasciences.utoronto.ca/crosstalk-bootcamp/
 
 Click the links below to open the notebooks:
 
-- **Introduction to Python Notebook:**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cottascience/crosstalk-q1-2025/blob/main/notebooks/0_CROSSTALK_Python.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cottascience/crosstalk-q1-2025/blob/main/notebooks/0_CROSSTALK_Python.ipynb) **Introduction to Python Notebook**  
 
-- **Introduction to ML Notebook:**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cottascience/crosstalk-q1-2025/blob/main/notebooks/0.1_CROSSTALK_IntroML.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cottascience/crosstalk-q1-2025/blob/main/notebooks/0.1_CROSSTALK_IntroML.ipynb) **Introduction to ML Notebook** 
 
-- **Exploratory Data Analysis Notebook:**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cottascience/crosstalk-q1-2025/blob/main/CROSSTALK_EDA.ipynb)
+-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/1_0_Molecule_features.ipynb) **Introduction to Mollecules Notebook**
 
-- **Training Notebook:**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cottascience/crosstalk-q1-2025/blob/main/CROSSTALK_TRAIN.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/2_0_DEL_ExploratoryDataAnalysis.ipynb) **Exploratory Data Analysis Notebook** 
 
-## Navigating the repo (file structure)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/3_0_Features_and_data.ipynb) **Features & Data Notebook** 
 
-```
-├── LICENSE            <- Terms to use this software.
-├── README.md          <- This file!
-├── data
-├── notebooks          <- Directory of Jupyter/Colab notebooks.
-├── requirements.txt   <- The requirements file for reproducing the enviroment.
-│
-└── crosstalk   <- Source code for this bootcamp
-    │
-    ├── __init__.py             <- Makes crosstalk a Python module
-    │    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │    │
-    └── utils.py           <- Code to create visualizations
-```
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/3_1_train_catboost.ipynb) **Training Notebook** 
