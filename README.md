@@ -1,4 +1,4 @@
-# CrossTALK Bootcamp Q2 2025
+# CrossTALK Bootcamp @ UofT
 
 Cross-Training in AI and Laboratory Knowledge for Drug Discovery
 
