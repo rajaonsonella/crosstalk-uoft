@@ -27,7 +27,7 @@ Click the links below to open the notebooks:
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cottascience/crosstalk-q1-2025/blob/main/notebooks/0_CROSSTALK_Python.ipynb) **Introduction to Python Notebook**  
 -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/1_0_Molecule_features.ipynb) **Introduction to Molecules Notebook**
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/3_0_Features_and_data.ipynb) **Features & Data Notebook** 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/2_0_DEL_ExploratoryDataAnalysis.ipynb) **Exploratory Data Analysis Notebook** 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/3_0_Features_and_data.ipynb) **Features & Data Notebook** 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cottascience/crosstalk-q1-2025/blob/main/notebooks/0.1_CROSSTALK_IntroML.ipynb) **Introduction to ML Notebook** 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajaonsonella/crosstalk-q2-2025/blob/main/notebooks/3_1_train_catboost.ipynb) **Training Notebook** 
