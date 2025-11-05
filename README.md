@@ -7,6 +7,8 @@ https://datasciences.utoronto.ca/crosstalk-bootcamp/
 ## Kaggle
 
 https://www.kaggle.com/competitions/cross-talk-round-3
+Kaggle email signup:
+https://forms.gle/udrNqxLCqnwXUPDn9
 
 https://www.kaggle.com/t/9c7fbe5809c84378a7dce33dab4c5cb7
 
